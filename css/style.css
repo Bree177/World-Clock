@@ -1,5 +1,14 @@
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/152/434/original/OIP.jfif?1733763464");
+  background: linear-gradient(
+    91.4deg,
+    rgb(235, 104, 104) -6%,
+    rgb(235, 142, 65) 12.4%,
+    rgb(233, 221, 101) 31.7%,
+    rgb(180, 231, 111) 51.4%,
+    rgb(92, 204, 230) 70.1%,
+    rgb(101, 113, 233) 89.4%,
+    rgb(170, 95, 248) 107.7%
+  );
   background-size: cover;
   background-repeat: no-repeat;
   font-family: sans-serif;
@@ -8,9 +17,15 @@ body {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/152/435/original/OIP_%281%29.jfif?1733763621");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: linear-gradient(
+    94.3deg,
+    rgba(104, 213, 253, 0.63) 0.7%,
+    rgba(169, 236, 91, 0.79) 18.6%,
+    rgba(253, 246, 116, 0.98) 39.1%,
+    rgba(255, 164, 120, 0.92) 63%,
+    rgba(250, 115, 188, 0.89) 85.3%,
+    rgb(97, 176, 242) 108.2%
+  );
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
