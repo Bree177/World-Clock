@@ -1,12 +1,16 @@
 body {
-  background-color: #f9f7fe;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/152/434/original/OIP.jfif?1733763464");
+  background-size: cover;
+  background-repeat: no-repeat;
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/152/435/original/OIP_%281%29.jfif?1733763621");
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
